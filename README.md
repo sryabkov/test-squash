@@ -1,4 +1,5 @@
 # test-squash
 
-line 1
-line 2
+* bullet 1
+* bullet 2
+* bullet 3
